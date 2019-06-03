@@ -3,5 +3,5 @@
 <p>This plugin creates a custom post type, "People", a "Person Type" taxonomy for the post type, and an shortcode to list people sortable by person_type.</p>
 
 The shortcode syntax:
-[list-people]
-[list-people person_type="Extrovert"]
+<pre>[list-people]
+[list-people person_type="Extrovert"]</pre>
